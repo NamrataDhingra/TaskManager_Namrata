@@ -38,7 +38,7 @@ Follow these steps to run the application locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/JatinPhogat/task-manager.git
+git clone https://github.com/NamrataDhingra/TaskManager_Namrata
 cd task-manager
 ```
 ### Install Dependencies
