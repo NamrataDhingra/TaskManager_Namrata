@@ -95,7 +95,7 @@ task-manager-mern/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/task-manager-mern.git
+   git clone https://github.com/NamrataDhingra/TaskManager_Namrata
    cd task-manager-mern
    ```
 
@@ -129,37 +129,4 @@ task-manager-mern/
 
 ---
 
-## Suggested Development Plan
-
-### First 30 Minutes:
-- Set up the GitHub repository with the required folder structure.
-- Initialize `package.json` files for both frontend and backend.
-
-### Next 30 Minutes:
-- Implement the backend APIs using Express.js and connect to MongoDB.
-- Test the APIs using Postman or cURL.
-
-### Next 30 Minutes:
-- Develop the React frontend with forms and task list display.
-
-### Last 30 Minutes:
-- Integrate the frontend with the backend APIs.
-- Test the entire flow and push the code to the GitHub repository.
-
----
-
-## Bonus Features (If Time Permits)
-- Add basic styling with CSS or a UI library like Bootstrap.
-- Include pagination for task lists.
-- Add a filter to show completed/incomplete tasks.
-
----
-
-## Screenshots
-(Include screenshots of the application here)
-
----
-
-## License
-MIT
 
